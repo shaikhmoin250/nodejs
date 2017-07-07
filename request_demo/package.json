@@ -1,0 +1,19 @@
+{
+  "name": "request_demo",
+  "version": "1.0.0",
+  "description": "npm request module demo",
+  "main": "request_demo.js",
+  "scripts": {
+    "start": "node ./request_demo_stream",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "request",
+    "demo"
+  ],
+  "author": "Suraj Singh <surajsingh.itian@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
